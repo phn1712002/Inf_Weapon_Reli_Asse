@@ -19,4 +19,4 @@
 ## Liên hệ
 1. Tác giả : Phạm Hoàng Nam
 2. Gmail : phn1712002@gmail.com
-3. Mã nguồn: https://gitlab.com/phn1712002/MTAK56_doAnTotNghiep#
+3. Mã nguồn : https://gitlab.com/phn1712002/MTAK56_doAnTotNghiep#
