@@ -1,4 +1,4 @@
-# Chương trình đánh giá độ tin cậy của súng bộ binh
+# Chương trình đánh giá độ tin cậy của súng pháo
 
 ### Nội dung: 
 1. Đây là mã nguồn cho đồ án tốt nghiệp cuối khóa tại Học viện kỹ thuật quân sự.
